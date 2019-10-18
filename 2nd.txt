@@ -1,1 +1,3 @@
 Preparing AND testing git functionality
+learned from telsko youtube.
+very good to learn things
